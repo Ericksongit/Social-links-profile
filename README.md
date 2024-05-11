@@ -12,11 +12,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
- I tried designe responsive without @media
+ I've tried responsive design without @media
 
 ### Screenshot
 
-You can found in the images directory
+You can find in the Images folder
 
 ## My process
 
